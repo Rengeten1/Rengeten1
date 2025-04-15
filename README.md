@@ -1,4 +1,4 @@
-👋 Hey, I’m a 2nd semester CS student,🤖 An AI student—learning how to learn, thinking how to think, still figuring out what to think in a world overflowing with binary logic and beautiful UIs.
+👋 Hey, I’m a 2nd semester student of Artificial Intelligence 🤖, learning how to learn, thinking how to think, still figuring out what to think in a world overflowing with binary logic and beautiful UIs.
 
 🌱 Currently exploring:
 
