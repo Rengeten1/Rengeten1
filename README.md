@@ -4,7 +4,7 @@
 
 Data Structures & Algorithms
 
-Python, C++, and Java
+Python, C++, Node.js Expressif, Java and Javascript
 
 How machines "understand" things
 
