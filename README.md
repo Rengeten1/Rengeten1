@@ -18,11 +18,9 @@ Building before mastering
 
 Failing forward (and pushing anyway)
 
+Currently building: 
+ 
 🧠 Python Chatbot with sockets – learning how conversations flow over networks
-
-🎮 C++ Game Engine – building the rules before playing the game
-
-🔧 C++ Language Compiler – because writing a compiler makes you question everything
 
 📚 Favorite debug ritual:
 
