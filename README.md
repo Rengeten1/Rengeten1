@@ -20,15 +20,15 @@ Failing forward (and pushing anyway)
 
 Currently building: 
  
-🧠 Python Chatbot with sockets – learning how conversations flow over networks
+🧠 Traffic Law Chatbot – Using Node.js, Expressif, React, Bootstrap and deploying on Azure. (Work in Progress!)
 
 📚 Favorite debug ritual:
 
-Panic
+- Panic
 
-Tea
+- Tea
 
-Print statements everywhere
+- Print statements everywhere
 
 Let’s build stuff that learns while we do.
 
