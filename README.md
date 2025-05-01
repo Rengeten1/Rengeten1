@@ -31,5 +31,6 @@ Currently building:
 - Print statements everywhere
 
 Let’s build stuff that learns while we do.
-
+   ```
 git commit -m "curiosity updated"
+   ```
