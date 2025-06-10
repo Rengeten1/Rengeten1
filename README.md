@@ -2,7 +2,7 @@
 
 🌱 Currently exploring:
 
-Python, C++, Node.js, Expressif, Java and Javascript
+Python, LangChain, LLMs & Prompt Engineering, Machine Learning basics, Cloud deployment (Azure)
 
 Currently building: 
  
@@ -13,6 +13,6 @@ Currently building:
 - Panic - Tea - Print statements everywhere
 
 Let’s build stuff that learns while we do.
-   ```
+```
 git commit -m "curiosity updated"
-   ```
+```
