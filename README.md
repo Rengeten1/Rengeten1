@@ -1,18 +1,29 @@
-👋 Hey, I’m a 2nd semester student of Artificial Intelligence 🤖, learning how to learn, thinking how to think, still figuring out what to think in a world overflowing with binary logic and beautiful UIs.
+👋 Hey, I’m a 2nd-semester Artificial Intelligence student 🤖 — learning how to learn, thinking how to think, still deciding what’s worth thinking in a world running on binary logic and beautiful UIs.
 
-🌱 Currently exploring:
+🌱 Currently diving into:
 
-Python, LangChain, LLMs & Prompt Engineering, Machine Learning basics, Cloud deployment (Azure)
+Python & Prompt Engineering
 
-Currently building: 
- 
-🧠 Traffic Law Chatbot – Using Node.js, Expressif, React, Bootstrap and deploying on Azure. (Work in Progress!)
+LangChain & LLMs
 
-📚 Favorite debug ritual:
+GPT Wrappers & Tool Integration
 
-- Panic - Tea - Print statements everywhere
+Machine Learning fundamentals
 
-Let’s build stuff that learns while we do.
-```
-git commit -m "curiosity updated"
+Cloud deployment (Azure)
+
+🛠️ Building:
+
+Traffic Law Chatbot – Node.js, Express, React, Bootstrap, Azure
+
+Custom GPT Wrapper – Lightweight, extensible interface to interact with LLMs
+
+📚 Debug ritual:
+
+Panic → Tea → print() everywhere
+
+Let’s build systems that learn as we do.
+
+```bash
+git commit -m "curiosity upgraded"
 ```
