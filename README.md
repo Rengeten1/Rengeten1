@@ -12,6 +12,8 @@ Machine Learning fundamentals
 
 Cloud deployment (Azure)
 
+Embedded Devices
+
 🛠️ Building:
 
 Traffic Law Chatbot – Node.js, Express, React, Bootstrap, Azure
