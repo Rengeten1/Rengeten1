@@ -1,31 +1,33 @@
-👋 Hey, I’m a 2nd-semester Artificial Intelligence student 🤖 — learning how to learn, thinking how to think, still deciding what’s worth thinking in a world running on binary logic and beautiful UIs.
+# 👋 Hello!
 
-🌱 Currently diving into:
+I’m a 3rd-semester Artificial Intelligence student 🤖 — learning how to learn, thinking how to think, still deciding what’s worth thinking in a world running on binary logic and beautiful UIs.
+---
 
-Python & Prompt Engineering
+## 🌱 Currently exploring  
+- **Python & Prompt Engineering**  
+- **LangChain & Large Language Models**  
+- **GPT Wrappers & Tool Integrations**  
+- **Core Machine Learning Principles**  
+- **Cloud Deployment (Azure)**  
+- **Embedded & Edge-Device Development**  
 
-LangChain & LLMs
+---
 
-GPT Wrappers & Tool Integration
+## 🛠️ Building  
+- **SecurePi** – A deep-learning security system for door-breach detection  
+- **HyperChat** – A lightweight, extensible interface for interacting with LLMs  
 
-Machine Learning fundamentals
+---
 
-Cloud deployment (Azure)
+## 📚 My Debug Ritual  
+1. Panic  
+2. Brew tea  
+3. Sprinkle `print()` everywhere  
 
-Embedded Devices
+---
 
-🛠️ Building:
-
-Traffic Law Chatbot – Node.js, Express, React, Bootstrap, Azure
-
-Custom GPT Wrapper – Lightweight, extensible interface to interact with LLMs
-
-📚 Debug ritual:
-
-Panic → Tea → print() everywhere
-
-Let’s build systems that learn as we do.
-
+Let’s build AI systems that learn and grow with us.  
 ```bash
 git commit -m "curiosity upgraded"
-```
+```  
+````markdown
