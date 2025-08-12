@@ -30,4 +30,3 @@ Let’s build AI systems that learn and grow with us.
 ```bash
 git commit -m "curiosity upgraded"
 ```  
-````markdown
