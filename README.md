@@ -13,8 +13,7 @@ I’m a 3rd-semester Artificial Intelligence student 🤖 — learning how to le
 
 ---
 
-## 🛠️ Building  
-- **SecurePi** – A deep-learning security system for door-breach detection  
+## 🛠️ Building    
 - **HyperChat** – A lightweight, extensible interface for interacting with LLMs  
 
 ---
