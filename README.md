@@ -8,7 +8,7 @@ I’m a 3rd-semester AI student exploring machine intelligence through code, pro
 
 - **[HyperChat](https://github.com/Rengeten1/HyperChat):**  
   Lightweight, extensible LLM chat interface.
-- Deep learning & LLM chains (TensorFlow, LangChain)
+- Deep learning (TensorFlow) [Deep Learning](https://github.com/Rengeten1/DeepLearning)
 - Data visualization ([Data-visualization](https://github.com/Rengeten1/Data-visualization))
 - Core ML & algorithms ([Algorithms-and-Data-Structures](https://github.com/Rengeten1/Algorithms-and-Data-Structures))
 - Embedded/edge devices ([PiDevKit](https://github.com/Rengeten1/PiDevKit))
