@@ -1,31 +1,44 @@
 # 👋 Hello!
 
-I’m a 3rd-semester Artificial Intelligence student 🤖 — learning how to learn, thinking how to think, still deciding what’s worth thinking in a world running on binary logic and beautiful UIs.
----
-
-## 🌱 Currently exploring  
-- **Python & Prompt Engineering**  
-- **LangChain & Large Language Models**  
-- **GPT Wrappers & Tool Integrations**  
-- **Core Machine Learning Principles**  
-- **Cloud Deployment (Azure)**  
-- **Embedded & Edge-Device Development**  
+I’m a 3rd-semester AI student exploring machine intelligence through code, projects, and lots of experiments.
 
 ---
 
-## 🛠️ Building    
-- **HyperChat** – A lightweight, extensible interface for interacting with LLMs  
+## 🚀 Current Focus
+
+- **[HyperChat](https://github.com/Rengeten1/HyperChat):**  
+  Lightweight, extensible LLM chat interface.
+- Deep learning & LLM chains (TensorFlow, LangChain)
+- Data visualization ([Data-visualization](https://github.com/Rengeten1/Data-visualization))
+- Core ML & algorithms ([Algorithms-and-Data-Structures](https://github.com/Rengeten1/Algorithms-and-Data-Structures))
+- Embedded/edge devices ([PiDevKit](https://github.com/Rengeten1/PiDevKit))
 
 ---
 
-## 📚 My Debug Ritual  
-1. Panic  
-2. Brew tea  
-3. Sprinkle `print()` everywhere  
+## 🌱 Exploring
+
+- Deep learning & LLMs
+- LangChain, Azure basics, SQL
+- Data analysis & visualization
+- Edge/embedded development
 
 ---
 
-Let’s build AI systems that learn and grow with us.  
+## 🛠️ Toolbox
+
+**Languages:** Python, Java, C++, JavaScript, SQL  
+**ML/Data:** pandas, NumPy, scikit-learn, TensorFlow/Keras, LangChain  
+**Web/UI:** HTML, React  
+**Cloud/DevOps:** Azure, Git/GitHub  
+**Tools:** Jupyter, Colab, VS Code  
+
+---
+
+## 📚 Debug Ritual
+
+Panic → Get coffee → `print()` everywhere
+
 ```bash
 git commit -m "curiosity upgraded"
-```  
+```
+```
