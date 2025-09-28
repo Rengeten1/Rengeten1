@@ -41,4 +41,3 @@ Panic → Get coffee → `print()` everywhere
 ```bash
 git commit -m "curiosity upgraded"
 ```
-```
