@@ -6,7 +6,7 @@ I’m a 3rd-semester AI student exploring machine intelligence through code, pro
 
 ## 🚀 Current Focus
 
-- Chatbot [HyperChat](https://github.com/Rengeten1/HyperChat):  
+- Chatbot [HyperChat](https://github.com/Rengeten1/HyperChat)  
 - Deep learning (TensorFlow) [Deep Learning](https://github.com/Rengeten1/DeepLearning)
 - Data visualization ([Data-visualization](https://github.com/Rengeten1/Data-visualization))
 - Algorithms and Data Structures ([Algorithms-and-Data-Structures](https://github.com/Rengeten1/Algorithms-and-Data-Structures))
