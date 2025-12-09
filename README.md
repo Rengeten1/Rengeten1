@@ -6,10 +6,10 @@ I’m a 3rd-semester AI student exploring machine intelligence through code, pro
 
 ## 🚀 Current Focus
 
-- Deep learning (TensorFlow) [Deep Learning](https://github.com/Rengeten1/DeepLearning)
-- Data visualization ([Data-visualization](https://github.com/Rengeten1/Data-visualization))
-- Algorithms and Data Structures ([Algorithms-and-Data-Structures](https://github.com/Rengeten1/Algorithms-and-Data-Structures))
-- Embedded devices ([PiDevKit](https://github.com/Rengeten1/PiDevKit))
+-  [Deep learning (TensorFlow)](https://github.com/Rengeten1/DeepLearning)
+-  [Data visualization](https://github.com/Rengeten1/Data-visualization)
+-  [Algorithms and Data Structures](https://github.com/Rengeten1/Algorithms-and-Data-Structures)
+-  [Embedded devices](https://github.com/Rengeten1/PiDevKit)
 
 ---
 
@@ -17,7 +17,7 @@ I’m a 3rd-semester AI student exploring machine intelligence through code, pro
 
 - Deep learning & LLMs
 - LangChain, Azure basics, SQL
-- Data analysis & visualization
+- Opencv and Neural Networks
 - Edge/embedded development
 
 ---
