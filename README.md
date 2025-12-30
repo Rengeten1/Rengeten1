@@ -5,10 +5,8 @@ I’m a 3rd-semester AI student exploring machine intelligence through code, pro
 ---
 
 ## 🚀 Current Focus
-
+-  [Hyprchat](https://github.com/Rengeten1/Hyprchat)
 -  [Deep learning (TensorFlow)](https://github.com/Rengeten1/DeepLearning)
--  [Data visualization](https://github.com/Rengeten1/Data-visualization)
--  [Algorithms and Data Structures](https://github.com/Rengeten1/Algorithms-and-Data-Structures)
 -  [Embedded devices](https://github.com/Rengeten1/PiDevKit)
 
 ---
