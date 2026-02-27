@@ -5,6 +5,7 @@ I’m a 3rd-semester AI student exploring machine intelligence through code, pro
 ---
 
 ## 🚀 Current Focus
+-  [PDF Grabber](https://github.com/Rengeten1/PDF-Grabber)
 -  [Hyprchat](https://github.com/Rengeten1/Hyprchat)
 -  [Deep learning (TensorFlow)](https://github.com/Rengeten1/DeepLearning)
 -  [Embedded devices](https://github.com/Rengeten1/PiDevKit)
@@ -24,7 +25,7 @@ I’m a 3rd-semester AI student exploring machine intelligence through code, pro
 
 **Languages:** Python, Java, C++, JavaScript, SQL  
 **ML/Data:** pandas, NumPy, scikit-learn, TensorFlow/Keras, LangChain  
-**Web/UI:** HTML, React  
+**Web/UI:** HTML, React
 **Cloud/DevOps:** Azure, Git/GitHub  
 **Tools:** Jupyter, Colab, VS Code  
 
