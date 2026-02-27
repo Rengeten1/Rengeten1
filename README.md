@@ -1,14 +1,12 @@
 # 👋 Hello!
 
-I’m a 3rd-semester AI student exploring machine intelligence through code, projects, and lots of experiments.
+I’m a 4th-semester AI student exploring machine intelligence through code, projects, and lots of experiments.
 
 ---
 
 ## 🚀 Current Focus
 -  [PDF Grabber](https://github.com/Rengeten1/PDF-Grabber)
 -  [Hyprchat](https://github.com/Rengeten1/Hyprchat)
--  [Deep learning (TensorFlow)](https://github.com/Rengeten1/DeepLearning)
--  [Embedded devices](https://github.com/Rengeten1/PiDevKit)
 
 ---
 
