@@ -23,7 +23,7 @@ I’m a 4th-semester AI student exploring machine intelligence through code, pro
 
 **Languages:** Python, Java, C++, JavaScript, SQL  
 **ML/Data:** pandas, NumPy, scikit-learn, TensorFlow/Keras, LangChain  
-**Web/UI:** HTML, React
+**Web/UI:** HTML, React, Browser Extensions
 **Cloud/DevOps:** Azure, Git/GitHub  
 **Tools:** Jupyter, Colab, VS Code  
 
