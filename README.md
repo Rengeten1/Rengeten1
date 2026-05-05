@@ -12,7 +12,7 @@ I’m a 4th-semester AI student exploring machine intelligence through code, pro
 
 ## 🌱 Exploring
 
-- Deep learning & LLMs
+- Deep learning, NLP
 - LangChain, Azure basics, SQL
 - Opencv and Neural Networks
 - Edge/embedded development
@@ -23,13 +23,13 @@ I’m a 4th-semester AI student exploring machine intelligence through code, pro
 
 **Languages:** Python, Java, C++, JavaScript, SQL  
 
-**ML/Data:** pandas, NumPy, scikit-learn, TensorFlow/Keras, LangChain  
+**ML/Data:** pandas, NumPy, scikit-learn, TensorFlow/Keras, LangChain, opencv
 
 **Web/UI:** HTML, React, Browser Extensions
 
 **Cloud/DevOps:** Azure, Git/GitHub  
 
-**Tools:** Jupyter, Colab, VS Code  
+**Tools:** Jupyter, Colab, VS Code, Fusion360, Platformio
 
 ---
 
