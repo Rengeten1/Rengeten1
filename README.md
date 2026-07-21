@@ -1,35 +1,30 @@
 # 👋 Hello!
 
-I’m a 4th-semester AI student exploring machine intelligence through code, projects, and lots of experiments.
-
----
-
-## 🚀 Current Focus
--  [PDF Grabber](https://github.com/Rengeten1/PDF-Grabber)
--  [Hyprchat](https://github.com/Rengeten1/Hyprchat)
+I’m a 4th-semester AI student learning through code, projects, and lots of experiments.
 
 ---
 
 ## 🌱 Exploring
 
-- Deep learning, NLP
-- LangChain, Azure basics, SQL
-- Opencv and Neural Networks
-- Edge/embedded development
+- **Deep Learning:** Neural network architectures and model optimization
+- **Embedded Systems:** Microcontrollers, peripheral interfaces (I2S, SPI, I2C), and bare-metal/RTOS C++
+- **TinyML & Edge AI:** Model Quantization (INT8), hardware acceleration (ESP-NN), and deployment with TFLite Micro
 
 ---
 
 ## 🛠️ Toolbox
 
-**Languages:** Python, Java, C++, JavaScript, SQL  
+**Languages:** Python, C++, Java and JavaScript  
 
-**ML/Data:** pandas, NumPy, scikit-learn, TensorFlow/Keras, LangChain, opencv
+**AI & Edge Frameworks:** TensorFlow/Keras, TensorFlow Lite Micro, ESP-NN, OpenCV, scikit-learn, LangChain  
 
-**Web/UI:** HTML, React, Browser Extensions
+**Embedded & Hardware:** ESP32-S3, Raspberry Pi 5, ESP-IDF, PlatformIO, Arduino, Fusion360  
 
-**Cloud/DevOps:** Azure, Git/GitHub  
+**Operating Systems:** Linux (Arch, Ubuntu, Raspberry Pi OS), macOS, Windows  
 
-**Tools:** Jupyter, Colab, VS Code, Fusion360, Platformio
+**Data & Web Stack:** NumPy, pandas, HTML, React, Browser Extensions  
+
+**Cloud & Dev Tools:** Azure, Git/GitHub, VS Code, Jupyter, Colab
 
 ---
 
