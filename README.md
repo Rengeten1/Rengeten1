@@ -1,6 +1,6 @@
 # 👋 Hello!
 
-I’m a 4th-semester AI student learning through code, projects, and lots of experiments.
+I’m a 5th-semester AI student learning through code, projects, and lots of experiments.
 
 ---
 
